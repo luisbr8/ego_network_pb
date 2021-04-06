@@ -1,0 +1,15 @@
+from,to,weight
+PB,A,3
+PB,B,2
+PB,C,2
+PB,D,2
+A,PB,3
+A,B,1
+A,C,1
+B,PB,2
+B,A,1
+B,C,2
+C,PB,2
+C,A,1
+C,B,2
+D,PB,2
