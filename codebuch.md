@@ -11,6 +11,17 @@ Legt das Geschlecht fest.
 3 = divers
 
 
+**age**
+
+Alterskategorien
+
+1 = <20
+
+2 = 20-40
+
+3 = >40
+
+
 **nameorigin**
 
 Beschreibt die Herkunft des Namens
